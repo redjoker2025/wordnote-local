@@ -1,12 +1,14 @@
 # 拾词 · Wordnote
 
-一个纯本地的极简单词本。无需安装、无需联网、无需登录，打开 `index.html` 就能使用。
+**[在线体验 →](https://redjoker2025.github.io/wordnote-local/)**
+
+一个纯本地的极简单词本。无需安装、无需登录，打开网页即可使用；也可以下载后离线打开 `index.html`。
 
 所有单词与学习记录都保存在当前浏览器的 `localStorage` 中，并带有自动备份、JSON 导入导出和 CSV/TXT 导入。
 
 ## 快速开始
 
-1. 双击 `index.html`，用 Edge、Chrome 或其他现代浏览器打开。
+1. 直接打开[在线版](https://redjoker2025.github.io/wordnote-local/)，或双击下载后的 `index.html`。
 2. 点击「添加单词」记录第一个词，或在空词库页面点击「载入示例词库」。
 3. 回到「今日学习」开始背单词；也可以随时做一组测验。
 4. 建议定期在「设置 → 数据管理」导出 JSON 备份。
